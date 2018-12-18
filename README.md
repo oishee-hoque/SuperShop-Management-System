@@ -4,7 +4,7 @@
 <li>Netbeans</li>
 <li>Java SDK Tools</li>
 </ul>
-[![Watch the video](https://github.com/Oishee30/SuperShop-Management-System/new/master/Demo.PNG)](https://youtu.be/tQTMf78Sces)
+[![Watch the video](https://github.com/Oishee30/SuperShop-Management-System/new/master/Demo.PNG)](https://youtu.be/tQTMf78Sces)]
 <h3>Features</h3?
 <ul>
 <li>Insert,Update,Deleteion of record in super shop database</li>
